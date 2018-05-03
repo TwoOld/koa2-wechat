@@ -8,4 +8,4 @@
 [https://ngrok.com/](https://ngrok.com/)  进行注册
 下载相应版本的客户端，根据网站提示一步一步来就可以了
 进入目录后使用命令行 ./ngrok http 8080  打开映射 （端口号与项目中的保持一致即可）
-![ngrok](https://github.com/TwoOld/koa2-wechat/screenshot/ngrok.png)
+![image](https://github.com/TwoOld/koa2-wechat/screenshot/ngrok.png)
