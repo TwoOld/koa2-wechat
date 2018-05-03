@@ -10,7 +10,7 @@ module.exports = {
     {
       "type": "view",
       "name": "下载APP",
-      "url": "http://www.mector.cn"
+      "url": "http://www.baidu.cn"
     },
     // {
     //   "type":"miniprogram",

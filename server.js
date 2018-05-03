@@ -69,7 +69,7 @@ app.use(wechat({
   // 普通回复
   console.log('receive message: ',message);
   // 字符串可组合 <a>标签 \n换行符等
-  return '欢迎关注麦客多\n随时随地做介入!\n<a href="http://example.com">链接</a>';
+  return '欢迎关注!\n<a href="http://example.com">链接</a>';
   //你也可以这样回复text类型的信息
   // return {
   //   content: 'text object',
