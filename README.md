@@ -1,6 +1,6 @@
 ﻿# 基于koa2 使用 co-wechat 与 co-wechat-api 快速入门搭建微信公众号
 
-标签（空格分隔）： 微信公众号 nodejs koa2
+标签： 微信公众号 nodejs koa2
 
 ---
 
